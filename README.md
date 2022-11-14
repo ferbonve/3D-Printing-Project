@@ -15,7 +15,7 @@ To determine the cost of a 3D print I take into consideration the following vari
 - Material quantity. 
 - Type of Material and brand.
 
-![](images/costo-pieza.png)
+![](costo-pieza.png)
 
 There are some costs that rely on the previous variables and others that are independent.
 
