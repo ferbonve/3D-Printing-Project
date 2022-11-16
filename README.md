@@ -32,6 +32,7 @@ Types of costs:
 - Other costs (Light consumption, office cleaning, etc)
 
 Return: 
+
 ![](https://github.com/ferbonve/3D-Printing-Project/blob/main/images/costo_pieza_return.jpg)
 
 ### Adding products to products list 
