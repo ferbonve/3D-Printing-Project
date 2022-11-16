@@ -9,15 +9,24 @@ the price list.
 
 
 ## How it works
+
 To determine the cost of a 3D print I take into consideration the following variables:
 
 - 3D printing time.
 - Material quantity. 
-- Type of Material and brand.
+- Type of Material and Brand.
 
 ![](https://github.com/ferbonve/3D-Printing-Project/blob/main/images/costo_pieza.jpg)
 
 
-There are some costs that rely on the previous variables and others that are independent.
+There are some costs that rely on the previous variables and others that are independent. 
+Types of costs:
+
+- Electricity cost (Depends on "3D printing time")
+- Supplies costs (Supplies used for each print)
+- Hotend lifetime cost (Depends on "3D printing time")
+- Material cost (Depends on "Material quantity" and "Type of Material and Brand") 
+- Other costs (Light consumption, office cleaning, etc)
+
 
  
