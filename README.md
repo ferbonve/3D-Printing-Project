@@ -3,13 +3,14 @@
 
 A python program that calculates the costs and prices of different products made with a 3D FDM printer. 
 Once finished the calculations, the product´s information can be saved in an excel file that contains a table with the list of products. Instead of updating every single good of
-the list manually, the program has a menu with an option to update three different lists (price list, raw materials list, supplies list). 
+the list manually, the program has a menu with an option to update three different lists (products list, raw materials list, supplies list). 
 The update of the costs of the raw materials and supplies is made by scraping the prices from Mercadolibre or by getting the inflation rate of the previous month. When this is done, it updates
 the price list.
 
 
 ## How it works
 
+### Costs calculations
 To determine the cost of a 3D print I take into consideration the following variables:
 
 - 3D printing time.
@@ -28,6 +29,11 @@ Types of costs:
 - Hotend lifetime cost (Depends on "3D printing time")
 - Material cost (Depends on "Material quantity" and "Type of Material and Brand") 
 - Other costs (Light consumption, office cleaning, etc)
+
+### Adding products to products list 
+
+
+Menu
 
 
  
