@@ -20,6 +20,7 @@ To determine the cost of a 3D print I take into consideration the following vari
 
 
 There are some costs that rely on the previous variables and others that are independent. 
+
 Types of costs:
 
 - Electricity cost (Depends on "3D printing time")
