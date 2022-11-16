@@ -28,7 +28,11 @@ Types of costs:
 - Supplies costs (Supplies used for each print)
 - Hotend lifetime cost (Depends on "3D printing time")
 - Material cost (Depends on "Material quantity" and "Type of Material and Brand") 
+- 3D printer amortization cost (Depends on the printer usage per year)
 - Other costs (Light consumption, office cleaning, etc)
+
+Return: 
+![](https://github.com/ferbonve/3D-Printing-Project/blob/main/images/costo_pieza_return.jpg)
 
 ### Adding products to products list 
 
