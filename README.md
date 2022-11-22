@@ -10,6 +10,15 @@ the price list.
 
 ## How it works
 
+### Menu
+Everytime the python script (costo_piezas.py) is run, the following menu will show:
+
+![](https://github.com/ferbonve/3D-Printing-Project/blob/main/images/menu.jpg)
+
+
+
+
+
 ### Costs calculations
 To determine the cost of a 3D print I take into consideration the following variables:
 
@@ -36,7 +45,6 @@ Return:
 ![](https://github.com/ferbonve/3D-Printing-Project/blob/main/images/costo_pieza_return.jpg)
 
 ### Adding products to products list 
-
 
 Menu
 
